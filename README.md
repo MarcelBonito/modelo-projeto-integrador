@@ -14,7 +14,7 @@ Nos arquivos **.tex** que compõe este *template*, existem diversos exemplos de 
 + Figuras;
 + Quadros;
 + Tabelas;
-+ Citações (direta e indireta).
++ Citações (*direta e indireta)*.
 
 Além da:
 
